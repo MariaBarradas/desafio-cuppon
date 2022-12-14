@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.imagen1 {
+    width: 86px;
+    height: 25px;
+    margin: 0px 0px 0px 6px;
+}
+
+.navbar-toggler{
+    color: #fff;
+    border-color: #fff;
+}
+
+.navbar-toggler-icon{
+    color: #fff;
+    border-color: #fff;
+}
+
+.card{
+    padding: 0px 0px;
+    margin: 15px 0px 15px 0px;
+}
+
+.card-title{
+    color: #212529;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.card-text{
+    color: #707070;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.fa-solid .fa-location-dot{
+    color: #707070;
+    margin: 20px 0px 0px 0px;
+    bottom: 0px;
+}
+
+.direccion{
+    color: #707070;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    font-weight: 300;
+    margin: 5px 0px 0px 0px;
+    line-height:0;
+    bottom: 0px;
+}
+
+.precio1{
+    color: #707070;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    text-decoration: none;
+}
+
+.precio2{
+    color: #28A745;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.cupones{
+    text-align: center;
+    margin: 35px 0px 5px 0px
+}
+
+h2{
+    font-size: 21px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+.cupo1{
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #707070;
+    margin: 0px 50px 0px 50px;
+    width: 278px;
+    height: 40px;
+}
+
+.cupo2{
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #707070;
+    margin: 4px 50px 50px 50px;
+    width: 278px;
+    height: 40px;
+}
+
+.enviar{
+    width: 112px;
+    color: #212529;
+    background-color: #fff;
+    margin: 0px 4px 35px 0px;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    border-radius: 2px;
+}
+
+footer{
+    height: 130px;
+    margin: 0px 0px 0px 0px;
+}
+
+.logo-final{
+    width: 82px;
+    height: 24px;
+}
+
+p{
+    color: #707070;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    margin: 10px 0px 5px 0px;
+}
+
+
+
+
